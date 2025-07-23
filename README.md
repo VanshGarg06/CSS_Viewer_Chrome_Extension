@@ -10,3 +10,4 @@ This is a chrome extension to view the css properties applied on the particular 
 ```js
 chrome://extensions/
 ```
+- Go to Load Unpacked button (visible at top left corner of window).
