@@ -7,9 +7,6 @@ This is a chrome extension to view the css properties applied on the particular 
 - Now go to the chrome browser and type url as:
 
   
-  `use-clipboard-copy` is a **lightweight** (< 1KB) React hook that makes it possible to add a copy-to-clipboard functionality to your React application with very little code! A simple implementation looks like this:
-
 ```js
 chrome://extensions/
-}
 ```
