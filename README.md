@@ -11,4 +11,4 @@ This is a chrome extension to view the css properties applied on the particular 
 chrome://extensions/
 ```
 - Go to Load Unpacked button (visible at top left corner of window).
-- Choose that folder in whic you have stored files and you are good to go.
+- Choose that folder in which you have stored files and you are good to go.
